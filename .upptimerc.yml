@@ -3,28 +3,28 @@ owner: HyperLife1119 # Your GitHub organization or username, where this reposito
 repo: upptime # The name of this repository
 
 sites:
-  - name: www
-    url: $WWW_URL
   - name: venus
-    url: $VENUS_URL
-  - name: venus-dev
-    url: $DEV_VENUS_URL
+    url: $VENUS_URL/vns/dashboard
   - name: rhea
-    url: $RHEA_URL
-  - name: rhea-dev
-    url: $DEV_RHEA_URL
+    url: $RHEA_URL/rha/dashboard
   - name: mars
-    url: $MARS_URL
-  - name: mars-dev
-    url: $DEV_MARS_URL
+    url: $MARS_URL/mrs/dashboard
   - name: titan
-    url: $TITAN_URL
-  - name: titan-dev
-    url: $DEV_TITAN_URL
+    url: $TITAN_URL/ttn/dashboard
+    method: POST
   - name: alpha
+    url: $ALPHA_URL/apa/alpha
+
+  - name: venus-web
+    url: $VENUS_URL
+  - name: rhea-web
+    url: $RHEA_URL
+  - name: mars-web
+    url: $MARS_URL
+  - name: titan-web
+    url: $TITAN_URL
+  - name: alpha-web
     url: $ALPHA_URL
-  - name: alpha-dev
-    url: $DEV_ALPHA_URL
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
