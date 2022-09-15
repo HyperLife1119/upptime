@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "venus",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.67%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 928,
     "timeDay": 852,
     "timeWeek": 856,
     "timeMonth": 928,
     "timeYear": 928,
-    "dailyMinutesDown": {
-      "2022-09-15": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "rhea",
@@ -25,19 +23,17 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "rhea",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 991,
     "timeDay": 1522,
     "timeWeek": 1152,
     "timeMonth": 991,
     "timeYear": 991,
-    "dailyMinutesDown": {
-      "2022-09-15": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "mars",
@@ -45,19 +41,17 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "mars",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1027,
     "timeDay": 1980,
     "timeWeek": 1258,
     "timeMonth": 1027,
     "timeYear": 1027,
-    "dailyMinutesDown": {
-      "2022-09-15": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "titan",
@@ -65,19 +59,17 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "titan",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 934,
     "timeDay": 1426,
     "timeWeek": 1031,
     "timeMonth": 934,
     "timeYear": 934,
-    "dailyMinutesDown": {
-      "2022-09-15": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "alpha",
@@ -85,19 +77,17 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "alpha",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1046,
     "timeDay": 1890,
     "timeWeek": 1210,
     "timeMonth": 1046,
     "timeYear": 1046,
-    "dailyMinutesDown": {
-      "2022-09-15": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "venus-web",
