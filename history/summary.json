@@ -4,10 +4,10 @@
     "url": "$VENUS_URL/vns/dashboard",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "venus",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 928,
@@ -15,7 +15,9 @@
     "timeWeek": 856,
     "timeMonth": 928,
     "timeYear": 928,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-15": 1
+    }
   },
   {
     "name": "rhea",
@@ -166,19 +168,19 @@
     "url": "$ALPHA_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "alpha-web",
-    "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 1184,
-    "timeDay": 1184,
-    "timeWeek": 1184,
-    "timeMonth": 1184,
-    "timeYear": 1184,
+    "status": "up",
+    "uptime": "92.07%",
+    "uptimeDay": "92.07%",
+    "uptimeWeek": "92.07%",
+    "uptimeMonth": "92.07%",
+    "uptimeYear": "92.07%",
+    "time": 2768,
+    "timeDay": 2768,
+    "timeWeek": 2768,
+    "timeMonth": 2768,
+    "timeYear": 2768,
     "dailyMinutesDown": {
-      "2022-09-15": 0
+      "2022-09-15": 17
     }
   }
 ]
