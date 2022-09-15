@@ -5,15 +5,30 @@ repo: upptime # The name of this repository
 sites:
   - name: venus
     url: $VENUS_URL/vns/dashboard
+    expectedStatusCodes:
+      - 200
+      - 401
   - name: rhea
     url: $RHEA_URL/rha/dashboard
+    expectedStatusCodes:
+      - 200
+      - 401
   - name: mars
     url: $MARS_URL/mrs/dashboard
+    expectedStatusCodes:
+      - 200
+      - 401
   - name: titan
     url: $TITAN_URL/ttn/dashboard
+    expectedStatusCodes:
+      - 200
+      - 401
     method: POST
   - name: alpha
     url: $ALPHA_URL/apa/alpha
+    expectedStatusCodes:
+      - 200
+      - 401
 
   - name: venus-web
     url: $VENUS_URL
@@ -41,6 +56,5 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
