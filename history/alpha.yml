@@ -1,7 +1,7 @@
 url: $ALPHA_URL/apa/alpha
-status: down
+status: up
 code: 401
-responseTime: 640
-lastUpdated: 2022-09-15T06:38:05.137Z
+responseTime: 4063
+lastUpdated: 2022-09-15T06:43:11.635Z
 startTime: Fri Aug 26 2022 02:52:45 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
