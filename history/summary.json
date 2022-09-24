@@ -150,9 +150,9 @@
     "url": "$TITAN_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "titan-web",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -161,7 +161,9 @@
     "timeWeek": 1001,
     "timeMonth": 1111,
     "timeYear": 1111,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-24": 0
+    }
   },
   {
     "name": "alpha-web",
@@ -169,11 +171,11 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "alpha-web",
     "status": "up",
-    "uptime": "99.86%",
+    "uptime": "99.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.86%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
     "time": 1325,
     "timeDay": 666,
     "timeWeek": 829,
