@@ -1,7 +1,7 @@
 url: $TITAN_URL
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2022-10-21T10:49:33.436Z
+status: up
+code: 200
+responseTime: 869
+lastUpdated: 2022-10-21T10:59:35.943Z
 startTime: Thu Sep 15 2022 06:38:11 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
