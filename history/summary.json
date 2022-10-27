@@ -25,19 +25,19 @@
     "url": "$RHEA_URL/rha/dashboard",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rhea",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 961,
-    "timeDay": 852,
-    "timeWeek": 920,
-    "timeMonth": 937,
-    "timeYear": 961,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.46%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.98%",
+    "time": 958,
+    "timeDay": 780,
+    "timeWeek": 896,
+    "timeMonth": 930,
+    "timeYear": 958,
     "dailyMinutesDown": {
-      "2022-10-27": 0
+      "2022-10-27": 22
     }
   },
   {
