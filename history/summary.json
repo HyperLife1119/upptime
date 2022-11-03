@@ -4,10 +4,10 @@
     "url": "$VENUS_URL/vns/dashboard",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "venus",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
     "time": 960,
@@ -16,6 +16,7 @@
     "timeMonth": 938,
     "timeYear": 960,
     "dailyMinutesDown": {
+      "2022-11-03": 2,
       "2022-09-30": 83,
       "2022-09-15": 22
     }
@@ -25,18 +26,19 @@
     "url": "$RHEA_URL/rha/dashboard",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rhea",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.78%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
     "time": 951,
     "timeDay": 1018,
-    "timeWeek": 861,
+    "timeWeek": 883,
     "timeMonth": 911,
     "timeYear": 951,
     "dailyMinutesDown": {
+      "2022-11-03": 1,
       "2022-10-27": 22
     }
   },
@@ -45,10 +47,10 @@
     "url": "$MARS_URL/mrs/dashboard",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mars",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 984,
@@ -56,7 +58,9 @@
     "timeWeek": 889,
     "timeMonth": 926,
     "timeYear": 984,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-03": 1
+    }
   },
   {
     "name": "titan",
