@@ -1,7 +1,7 @@
 url: $VENUS_URL/vns/dashboard
-status: down
-code: 404
-responseTime: 1080
-lastUpdated: 2022-11-10T17:43:50.848Z
+status: up
+code: 401
+responseTime: 763
+lastUpdated: 2022-11-10T17:50:40.636Z
 startTime: Fri Aug 26 2022 02:52:33 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
