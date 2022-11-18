@@ -1,7 +1,7 @@
 url: $TITAN_URL/ttn/dashboard
 status: up
 code: 401
-responseTime: 1051
-lastUpdated: 2022-11-17T23:20:58.497Z
+responseTime: 652
+lastUpdated: 2022-11-18T23:19:38.518Z
 startTime: Fri Aug 26 2022 02:52:42 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
