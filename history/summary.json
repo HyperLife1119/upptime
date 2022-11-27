@@ -4,11 +4,11 @@
     "url": "$VENUS_URL/vns/dashboard",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "venus",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "99.67%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.91%",
     "time": 936,
     "timeDay": 898,
@@ -16,6 +16,7 @@
     "timeMonth": 876,
     "timeYear": 936,
     "dailyMinutesDown": {
+      "2022-11-27": 5,
       "2022-11-03": 15,
       "2022-09-30": 83,
       "2022-09-15": 22
@@ -26,18 +27,19 @@
     "url": "$RHEA_URL/rha/dashboard",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rhea",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "99.70%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.98%",
     "time": 930,
     "timeDay": 929,
     "timeWeek": 861,
-    "timeMonth": 867,
+    "timeMonth": 872,
     "timeYear": 930,
     "dailyMinutesDown": {
+      "2022-11-27": 4,
       "2022-10-27": 22
     }
   },
@@ -46,82 +48,90 @@
     "url": "$MARS_URL/mrs/dashboard",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mars",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.74%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 954,
     "timeDay": 943,
     "timeWeek": 854,
     "timeMonth": 870,
     "timeYear": 954,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-27": 4
+    }
   },
   {
     "name": "titan",
     "url": "$TITAN_URL/ttn/dashboard",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "titan",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 931,
     "timeDay": 934,
     "timeWeek": 871,
     "timeMonth": 865,
     "timeYear": 931,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-27": 3
+    }
   },
   {
     "name": "alpha",
     "url": "$ALPHA_URL/apa/alpha",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "alpha",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 941,
     "timeDay": 967,
     "timeWeek": 874,
     "timeMonth": 867,
     "timeYear": 941,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-27": 3
+    }
   },
   {
     "name": "venus-web",
     "url": "$VENUS_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "venus-web",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 868,
     "timeDay": 860,
     "timeWeek": 803,
     "timeMonth": 843,
     "timeYear": 868,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-27": 2
+    }
   },
   {
     "name": "rhea-web",
     "url": "$RHEA_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rhea-web",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 810,
@@ -129,17 +139,19 @@
     "timeWeek": 761,
     "timeMonth": 771,
     "timeYear": 810,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-27": 2
+    }
   },
   {
     "name": "mars-web",
     "url": "$MARS_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mars-web",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 855,
@@ -147,17 +159,19 @@
     "timeWeek": 770,
     "timeMonth": 780,
     "timeYear": 855,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-27": 1
+    }
   },
   {
     "name": "titan-web",
     "url": "$TITAN_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "titan-web",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 850,
@@ -166,6 +180,7 @@
     "timeMonth": 784,
     "timeYear": 850,
     "dailyMinutesDown": {
+      "2022-11-27": 1,
       "2022-09-24": 15
     }
   },
@@ -174,9 +189,9 @@
     "url": "$ALPHA_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "alpha-web",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -186,6 +201,7 @@
     "timeMonth": 798,
     "timeYear": 901,
     "dailyMinutesDown": {
+      "2022-11-27": 0,
       "2022-09-15": 17
     }
   }
