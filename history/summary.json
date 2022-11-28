@@ -6,17 +6,16 @@
     "slug": "venus",
     "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.91%",
     "time": 935,
-    "timeDay": 853,
-    "timeWeek": 816,
-    "timeMonth": 874,
+    "timeDay": 920,
+    "timeWeek": 850,
+    "timeMonth": 875,
     "timeYear": 935,
     "dailyMinutesDown": {
-      "2022-11-27": 6,
       "2022-11-03": 15,
       "2022-09-30": 83,
       "2022-09-15": 22
@@ -29,17 +28,16 @@
     "slug": "rhea",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 929,
-    "timeDay": 867,
-    "timeWeek": 854,
-    "timeMonth": 870,
+    "timeDay": 871,
+    "timeWeek": 871,
+    "timeMonth": 869,
     "timeYear": 929,
     "dailyMinutesDown": {
-      "2022-11-27": 5,
       "2022-10-27": 22
     }
   },
@@ -50,18 +48,16 @@
     "slug": "mars",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.68%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 952,
-    "timeDay": 858,
-    "timeWeek": 844,
-    "timeMonth": 867,
+    "timeDay": 870,
+    "timeWeek": 842,
+    "timeMonth": 864,
     "timeYear": 952,
-    "dailyMinutesDown": {
-      "2022-11-27": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "titan",
@@ -70,18 +66,16 @@
     "slug": "titan",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.71%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 930,
-    "timeDay": 896,
-    "timeWeek": 869,
-    "timeMonth": 865,
+    "timeDay": 910,
+    "timeWeek": 868,
+    "timeMonth": 863,
     "timeYear": 930,
-    "dailyMinutesDown": {
-      "2022-11-27": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "alpha",
@@ -90,18 +84,16 @@
     "slug": "alpha",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.75%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 939,
-    "timeDay": 886,
-    "timeWeek": 866,
-    "timeMonth": 865,
-    "timeYear": 939,
-    "dailyMinutesDown": {
-      "2022-11-27": 4
-    }
+    "time": 940,
+    "timeDay": 900,
+    "timeWeek": 871,
+    "timeMonth": 866,
+    "timeYear": 940,
+    "dailyMinutesDown": {}
   },
   {
     "name": "venus-web",
@@ -110,18 +102,16 @@
     "slug": "venus-web",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.78%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 866,
-    "timeDay": 790,
-    "timeWeek": 793,
-    "timeMonth": 839,
+    "timeDay": 792,
+    "timeWeek": 792,
+    "timeMonth": 840,
     "timeYear": 866,
-    "dailyMinutesDown": {
-      "2022-11-27": 3
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "rhea-web",
@@ -130,18 +120,16 @@
     "slug": "rhea-web",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.81%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 809,
-    "timeDay": 813,
-    "timeWeek": 764,
+    "time": 810,
+    "timeDay": 823,
+    "timeWeek": 789,
     "timeMonth": 772,
-    "timeYear": 809,
-    "dailyMinutesDown": {
-      "2022-11-27": 3
-    }
+    "timeYear": 810,
+    "dailyMinutesDown": {}
   },
   {
     "name": "mars-web",
@@ -150,18 +138,16 @@
     "slug": "mars-web",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 854,
-    "timeDay": 824,
-    "timeWeek": 766,
-    "timeMonth": 779,
+    "timeDay": 825,
+    "timeWeek": 787,
+    "timeMonth": 780,
     "timeYear": 854,
-    "dailyMinutesDown": {
-      "2022-11-27": 2
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "titan-web",
@@ -169,18 +155,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "titan-web",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
+    "uptime": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 849,
-    "timeDay": 808,
-    "timeWeek": 769,
-    "timeMonth": 784,
+    "timeDay": 816,
+    "timeWeek": 767,
+    "timeMonth": 783,
     "timeYear": 849,
     "dailyMinutesDown": {
-      "2022-11-27": 2,
       "2022-09-24": 15
     }
   },
@@ -191,17 +176,16 @@
     "slug": "alpha-web",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 900,
-    "timeDay": 818,
-    "timeWeek": 796,
+    "time": 899,
+    "timeDay": 829,
+    "timeWeek": 794,
     "timeMonth": 798,
-    "timeYear": 900,
+    "timeYear": 899,
     "dailyMinutesDown": {
-      "2022-11-27": 1,
       "2022-09-15": 17
     }
   }
