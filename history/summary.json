@@ -4,9 +4,9 @@
     "url": "$VENUS_URL/vns/dashboard",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "venus",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
@@ -16,6 +16,7 @@
     "timeMonth": 868,
     "timeYear": 918,
     "dailyMinutesDown": {
+      "2023-01-02": 0,
       "2022-11-03": 15,
       "2022-09-30": 83,
       "2022-09-15": 22
